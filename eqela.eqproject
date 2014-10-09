@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# fivescenes
+#
+
+projectname: fivescenes
+vendorid: com.mariown.example
+mainmodule: com.mariown.example.fivescenes
